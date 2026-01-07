@@ -1,0 +1,2 @@
+Initial Setup:
+The initial phase of the project involved setting up the development environment and project structure. Necessary tools such as Node.js, MongoDB, and a code editor were installed. The project was organized into separate frontend and backend modules to follow a modular architecture. Basic configurations were completed to ensure successful execution of both client and server applications.
